@@ -1,0 +1,157 @@
+l2_code,l2_name,l3_code,l3_name,l4_code,l4_name,l5_code,l5_name
+g,Grassland,g1,Acid grassland,g1a,Lowland dry acid grassland,g1a5,Inland dunes with open grasslands (H2330)
+g,Grassland,g1,Acid grassland,g1a,Lowland dry acid grassland,g1a6,Other lowland dry acid grassland
+g,Grassland,g2,Acid grassland,g1b,Upland acid grassland,g1b5,Montane acid grassland (H6150)
+g,Grassland,g3,Acid grassland,g1c,Bracken,NA,NA
+g,Grassland,g4,Acid grassland,g1d,Other lowland acid grassland,NA,NA
+g,Grassland,g2,Calcareous grassland,g2a,Lowland calcareous grassland,g2a5,Dry grasslands and scrub on chalk or limestone; lowland (H6210)
+g,Grassland,g2,Calcareous grassland,g2a,Lowland calcareous grassland,g2a6,Dry grasslands and scrub on chalk or limestone; important orchid sites (H6210)
+g,Grassland,g2,Calcareous grassland,g2b,Upland calcareous grassland,g2b5,Alpine and subalpine calcareous grasslands (H6170)
+g,Grassland,g2,Calcareous grassland,g2b,Upland calcareous grassland,g2b6,Species-rich grassland with mat-grass in upland areas (H6230)
+g,Grassland,g2,Calcareous grassland,g2b,Upland calcareous grassland,g2b7,Dry grasslands and scrub on chalk or limestone; upland (H6210)
+g,Grassland,g2,Calcareous grassland,g2c,Other calcareous grassland,NA,NA
+g,Grassland,g3,Neutral grassland,g3a,Lowland meadows,g3a5,Lowland hay meadows (H6510)
+g,Grassland,g3,Neutral grassland,g3b,Upland hay meadows,g3b5,Mountain hay meadows (H6520)
+g,Grassland,g3,Neutral grassland,g3c,Other neutral grassland,g3c5,Arrhenatherum neutral grassland
+g,Grassland,g3,Neutral grassland,g3c,Other neutral grassland,g3c6,Lolium-Cynosurus neutral grassland
+g,Grassland,g3,Neutral grassland,g3c,Other neutral grassland,g3c7,Deschampsia neutral grassland
+g,Grassland,g3,Neutral grassland,g3c,Other neutral grassland,g3c8,Holcus-Juncus neutral grassland
+g,Grassland,g4,Modified grassland,NA,NA,NA,NA
+w,Woodland,w1,Broadleaved and mixed woodland,w1a,Upland woodland,w1a5,Western acidic oak woodland (H91A0)
+w,Woodland,w1,Broadleaved and mixed woodland,w1b,Upland mixed ashwoods,w1b5,Lime maple woodlands of rocky slopes (H9180)
+w,Woodland,w1,Broadleaved and mixed woodland,w1b,Upland mixed ashwoods,w1b6,Other upland mixed ashwoods 
+w,Woodland,w1,Broadleaved and mixed woodland,w1c,Lowland beech and yew woodland,w1c5,Beech forests on acid soils (H9120)
+w,Woodland,w1,Broadleaved and mixed woodland,w1c,Lowland beech and yew woodland,w1c6,Beech forests on neutral to rich soils (H9130)
+w,Woodland,w1,Broadleaved and mixed woodland,w1c,Lowland beech and yew woodland,w1c7,Yew-dominated woodland (H91J0)
+w,Woodland,w1,Broadleaved and mixed woodland,w1c,Lowland beech and yew woodland,w1c8,Natural box scrub (H5110)
+w,Woodland,w1,Broadleaved and mixed woodland,w1d,Wet woodland,w1d5,Alder woodland on floodplains (H91E0)
+w,Woodland,w1,Broadleaved and mixed woodland,w1d,Wet woodland,w1d6,Bog woodland (H91D0)
+w,Woodland,w1,Broadleaved and mixed woodland,w1e,Upland birchwoods,NA,NA
+w,Woodland,w1,Broadleaved and mixed woodland,w1f,Lowland mixed deciduous woodland,w1f5,Dry-oak dominated woodland (H9190)
+w,Woodland,w1,Broadleaved and mixed woodland,w1f,Lowland mixed deciduous woodland,w1f6,Oak-hornbeam forests (H9160)
+w,Woodland,w1,Broadleaved and mixed woodland,w1f,Lowland mixed deciduous woodland,w1f7,Other lowland mixed deciduous woodland
+w,Woodland,w1,Broadleaved and mixed woodland,w1g,Other broadleaved woodland,NA,NA
+w,Woodland,w1,Broadleaved and mixed woodland,w1h,Other woodland; mixed,w1h5,Other woodland; mixed; mainly broadleaved
+w,Woodland,w1,Broadleaved and mixed woodland,w1h,Other woodland; mixed,w1h6,Other woodland; mixed; mainly conifer
+w,Woodland,w2,Coniferous woodland,w2a,Native pine woodlands,w2a5,Caledonian forest (H91C0)
+w,Woodland,w2,Coniferous woodland,w2b,Other Scot's pine woodland,NA,NA
+w,Woodland,w2,Coniferous woodland,w2c,Other coniferous woodland,NA,NA
+h,Heathland and scrub,h1,Dwarf shrub heath,h1a,Lowland heathland,h1a5,Dry heaths; lowland (H4030)
+h,Heathland and scrub,h1,Dwarf shrub heath,h1a,Lowland heathland,h1a6,Dry coastal heaths with Cornish heath (H4040)
+h,Heathland and scrub,h1,Dwarf shrub heath,h1a,Lowland heathland,h1a7,Wet heathland with cross-leaved heath; lowland (H4010)
+h,Heathland and scrub,h1,Dwarf shrub heath,h1a,Lowland heathland,h1a8,Wet heatland with Dorset heath and cross-leaved heath (H4020)
+h,Heathland and scrub,h1,Dwarf shrub heath,h1b,Upland heathland,h1b5,Dry heaths; upland (H4030)
+h,Heathland and scrub,h1,Dwarf shrub heath,h1b,Upland heathland,h1b6,Wet heathland with cross-leaved heath; upland (H4010)
+h,Heathland and scrub,h1,Dwarf shrub heath,h1c,Mountain heaths and willow scrub,h1c5,Alpine and subalpine heaths (H4060)
+h,Heathland and scrub,h1,Dwarf shrub heath,h1c,Mountain heaths and willow scrub,h1c6,Mountain willow scrub (H4080)
+h,Heathland and scrub,h2,Hedgerows,h2a,Native hedgerow,h2a5,Species-rich native hedgerow
+h,Heathland and scrub,h2,Hedgerows,h2a,Native hedgerow,h2a6,Other native hedgerow
+h,Heathland and scrub,h2,Hedgerows,h2b,Non-native ornamental hedgerow,NA,NA
+h,Heathland and scrub,h3,Dense scrub,h3a,Blackthorn srub,h3a5,West coast blackthorn scrub
+h,Heathland and scrub,h3,Dense scrub,h3a,Blackthorn srub,h3a6,Other blackthorn scrub
+h,Heathland and scrub,h3,Dense scrub,h3b,Hazel scrub,h3b5,Atlantic hazel
+h,Heathland and scrub,h3,Dense scrub,h3b,Hazel scrub,h3b6,Other hazel scrub
+h,Heathland and scrub,h3,Dense scrub,h3c,Sea buckthorn scrub,h3c5,Dunes with sea buckthorn (H2160)
+h,Heathland and scrub,h3,Dense scrub,h3c,Sea buckthorn scrub,hsc6,Other sea buckthorn scrub
+h,Heathland and scrub,h3,Dense scrub,h3d,Bramble scrub,NA,NA
+h,Heathland and scrub,h3,Dense scrub,h3e,Gorse scrub,NA,NA
+h,Heathland and scrub,h3,Dense scrub,h3f,Hawthorn scrub,NA,NA
+h,Heathland and scrub,h3,Dense scrub,h3g,Rhododendron scrub,NA,NA
+h,Heathland and scrub,h3,Dense scrub,h3h,Mixed scrub,NA,NA
+h,Heathland and scrub,h3,Dense scrub,h3j,Willow scrub,NA,NA
+h,Heathland and scrub,h3,Dense scrub,h3k,Juniper scrub,NA,NA
+f,Wetland,f1,Bog,f1a,Blanket bog,f1a5,Blanket bog (H7130)
+f,Wetland,f1,Bog,f1a,Blanket bog,f1a6,Degraded blanket bog
+f,Wetland,f1,Bog,f1b,Lowland raised bog,f1b5,Active raised bogs (H7110)
+f,Wetland,f1,Bog,f1b,Lowland raised bog,f1b6,Degraded rasied bog (H7120)
+f,Wetland,f1,Bog,f1b,Lowland raised bog,f1b7,Other degraded raised bog
+f,Wetland,f2,Fen marsh and swamp,f2a,Lowland fens,f2a5,Calcium-rich fen dominated by great fen sedge (H7210)
+f,Wetland,f2,Fen marsh and swamp,f2a,Lowland fens,f2a6,Hard-water springs depositing lime; lowland (H7220)
+f,Wetland,f2,Fen marsh and swamp,f2a,Lowland fens,f2a7,Calcium-rich springwater-fed fens; lowland (H7230)
+f,Wetland,f2,Fen marsh and swamp,f2a,Lowland fens,f2a8,Transition mires and quaking bogs; lowland (H7140)
+f,Wetland,f2,Fen marsh and swamp,f2b,Purple moor-grass and rush pastures,f2b5,Purple moor-grass meadows (H6410)
+f,Wetland,f2,Fen marsh and swamp,f2c,"Upland flushes, fens and swamps",f2c5,Alpine pioneer formations (H7240)
+f,Wetland,f2,Fen marsh and swamp,f2c,"Upland flushes, fens and swamps",f2c6,Hard-water springs depositing lime; upland (H7220)
+f,Wetland,f2,Fen marsh and swamp,f2c,"Upland flushes, fens and swamps",f2c7,Calcium-rich springwater-fed fens; upland (H7230)
+f,Wetland,f2,Fen marsh and swamp,f2c,"Upland flushes, fens and swamps",f2c8,Transition mires and quaking bogs; upland (H7140)
+f,Wetland,f2,Fen marsh and swamp,f2d,Aquatic marginal vegetation,NA,NA
+f,Wetland,f2,Fen marsh and swamp,f2e,Reedbeds,NA,NA
+f,Wetland,f2,Fen marsh and swamp,f2f,Other wetlands,NA,NA
+c,Cropland,c1,Arable and horticulture,c1a,Arable field margins,c1a5,Arable field margins tussocky
+c,Cropland,c1,Arable and horticulture,c1a,Arable field margins,c1a6,Arable field margins pollen and nectar
+c,Cropland,c1,Arable and horticulture,c1a,Arable field margins,c1a7,Arable field margins cultivated annually
+c,Cropland,c1,Arable and horticulture,c1a,Arable field margins,c1a8,Arable field margins wild bird mix
+c,Cropland,c1,Arable and horticulture,c1b,Temporary grass and clover leys,c1b5,Rye-grass and clover ley
+c,Cropland,c1,Arable and horticulture,c1b,Temporary grass and clover leys,c1b6,Legume-rich ley
+c,Cropland,c1,Arable and horticulture,c1b,Temporary grass and clover leys,c1b7,Herb-rich ley
+c,Cropland,c1,Arable and horticulture,c1c,Cereal crops,c1c5,Winter stubble
+c,Cropland,c1,Arable and horticulture,c1c,Cereal crops,c1c6,Arable fields with wild bird mix
+c,Cropland,c1,Arable and horticulture,c1c,Cereal crops,c1c7,Other cereal crops
+c,Cropland,c1,Arable and horticulture,c1c,Cereal crops,c1c8,Arable fields pollen and nectar
+c,Cropland,c1,Arable and horticulture,c1c,Cereal crops,c1c9,Arable fields cultivated for annual flora
+c,Cropland,c1,Arable and horticulture,c1d,Non-cereal crops,c1d5,Miscanthus
+c,Cropland,c1,Arable and horticulture,c1d,Non-cereal crops,c1d6,Short-rotation coppice
+c,Cropland,c1,Arable and horticulture,c1d,Non-cereal crops,c1d7,Vineyards
+c,Cropland,c1,Arable and horticulture,c1d,Non-cereal crops,c1d8,Other non-cereal crops
+c,Cropland,c1,Arable and horticulture,c1e,Intensive orchards,NA,NA
+c,Cropland,c1,Arable and horticulture,c1f,Horticulture,c1f5,Annuals horticulture
+c,Cropland,c1,Arable and horticulture,c1f,Horticulture,c1f6,Perennials horticulture
+c,Cropland,c1,Arable and horticulture,c1f,Horticulture,c1f7,Polyculture
+u,Urban,u1,Built up areas and gardens,u1b,Developed land; sealed surface,u1b5,Buildings
+u,Urban,u2,Built up areas and gardens,u1b,Developed land; sealed surface,u1b6,Other developed land
+u,Urban,u3,Built up areas and gardens,u1c,"Artificial unvegetated, unsealed surface",NA,NA
+u,Urban,u4,Built up areas and gardens,u1d,Suburban mosiac of developed and natural surface,NA,NA
+u,Urban,u5,Built up areas and gardens,u1e,Built linear features,NA,NA
+u,Urban,u6,Built up areas and gardens,u1f,Sparsely vegetated urban land,NA,NA
+s,Sparsely vegetated land,s1,Inland rock,s1a,Inland rock outcrop and scree habitats,s1a5,Acidic scree (H8110)
+s,Sparsely vegetated land,s1,Inland rock,s1a,Inland rock outcrop and scree habitats,s1a6,Base-rich scree (H8120)
+s,Sparsely vegetated land,s1,Inland rock,s1a,Inland rock outcrop and scree habitats,s1a7,Plants in crevices in base-rich rocks (H8210)
+s,Sparsely vegetated land,s1,Inland rock,s1a,Inland rock outcrop and scree habitats,s1a8,Plants in crevices in acid rocks (H8220)
+s,Sparsely vegetated land,s1,Inland rock,s1a,Inland rock outcrop and scree habitats,s1a9,Tall herb communities (H6430)
+s,Sparsely vegetated land,s1,Inland rock,s1b,Limestone pavement,s1b5,Limestone pavements (H8240)
+s,Sparsely vegetated land,s1,Inland rock,s1c,Calaminarian grasslands,s1c5,Grasslands on soils rich in heavy metals (H6130)
+s,Sparsely vegetated land,s1,Inland rock,s1d,Other inland rock,NA,NA
+s,Sparsely vegetated land,s2,Supralittoral Rock,s2a,Maritime cliff and slopes,s2a5,Vegetated sea cliffs (H1230)
+s,Sparsely vegetated land,s2,Supralittoral Rock,s2a,Maritime cliff and slopes,s2a6,Soft rock sea cliffs
+s,Sparsely vegetated land,s3,Supralittoral Sediment,s3a,Sand dunes,s3a3,Humid dune slacks (H2190)
+s,Sparsely vegetated land,s3,Supralittoral Sediment,s3a,Sand dunes,s3a4,Dunes with juniper thickets (H2550)
+s,Sparsely vegetated land,s3,Supralittoral Sediment,s3a,Sand dunes,s3a5,Embryonic shifting dunes (H2110)
+s,Sparsely vegetated land,s3,Supralittoral Sediment,s3a,Sand dunes,s3a6,Shifting dunes with marram (H2120)
+s,Sparsely vegetated land,s3,Supralittoral Sediment,s3a,Sand dunes,s3a7,Dune grassland (H2130)
+s,Sparsely vegetated land,s3,Supralittoral Sediment,s3a,Sand dunes,s3a8,Lime-deficient dune heathland with crowberry (H2140)
+s,Sparsely vegetated land,s3,Supralittoral Sediment,s3a,Sand dunes,s3a9,Coastal dune heathland (H2150)
+s,Sparsely vegetated land,s3,Supralittoral Sediment,s3b,Coastal vegetated shingle,s3b5,Perennial vegetation on coastal shingle (H1220)
+s,Sparsely vegetated land,s3,Supralittoral Sediment,s3b,Coastal vegetated shingle,s3b6,Annual vegetation of drift lines (H1210)
+r,Rivers and lakes,r1,Standing open water and canals,r1a,Eutrophic standing waters,r1a5,Naturally nutrient-rich lakes or lochs (H3150)
+r,Rivers and lakes,r1,Standing open water and canals,r1a,Eutrophic standing waters,r1a6,Other eutrophic standing waters
+r,Rivers and lakes,r1,Standing open water and canals,r1b,Mesotrophic lakes,r1b5,Calcium-rich nutrient-poor lakes lochs and pools (H3140)
+r,Rivers and lakes,r1,Standing open water and canals,r1c,Oligotrophic and dystrophic lakes,r1c5,Clear-water lakes or lochs with aquatic vegetation (H3130)
+r,Rivers and lakes,r1,Standing open water and canals,r1c,Oligotrophic and dystrophic lakes,r1c6,Nutrient-poor shallow waters with aquatic vegetation on sand (H3110)
+r,Rivers and lakes,r1,Standing open water and canals,r1c,Oligotrophic and dystrophic lakes,r1c7,Acid peat-stained lakes and ponds (H3160)
+r,Rivers and lakes,r1,Standing open water and canals,r1d,Aquifer-fed naturally fluctuating water bodies,r1d5,Turlough (H3180)
+r,Rivers and lakes,r1,Standing open water and canals,r1d,Aquifer-fed naturally fluctuating water bodies,r1d6,Fluctuating meres
+r,Rivers and lakes,r1,Standing open water and canals,r1d,Aquifer-fed naturally fluctuating water bodies,r1d7,Blow wells
+r,Rivers and lakes,r1,Standing open water and canals,r1e,Canals,NA,NA
+r,Rivers and lakes,r1,Standing open water and canals,r1f,Temporary water bodies,r1f5,Mediterranean temporary ponds (H3170)
+r,Rivers and lakes,r1,Standing open water and canals,r1f,Temporary water bodies,r1f6,Other temporary ponds and scrapes
+r,Rivers and lakes,r1,Standing open water and canals,r1g,Other standing water,NA,NA
+r,Rivers and lakes,r2,Rivers and streams,r2a,Rivers (priority habitat),r2a5,Rivers with floating vegetation (H3260)
+r,Rivers and lakes,r2,Rivers and streams,r2a,Rivers (priority habitat),r2a6,Other priority habitat rivers
+r,Rivers and lakes,r2,Rivers and streams,r2b,Other rivers and streams,NA,NA
+t,Marine inlets and transitional waters,t1,Littoral Rock,t1a,Intertidal chalk,NA,NA
+t,Marine inlets and transitional waters,t1,Littoral Rock,t1b,Sabellaria alveolata reefs,NA,NA
+t,Marine inlets and transitional waters,t1,Littoral Rock,t1c,Intertidal underboulder communities,NA,NA
+t,Marine inlets and transitional waters,t1,Littoral Rock,t1d,Estuarine rocky habitats,NA,NA
+t,Marine inlets and transitional waters,t1,Littoral Rock,t1e,Splash zone with lichens,NA,NA
+t,Marine inlets and transitional waters,t1,Littoral Rock,t1f,Other littoral rock,NA,NA
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2a,Coastal saltmarsh,t2a5,Glasswort and other annuals colonising mud and sand (H1310)
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2a,Coastal saltmarsh,t2a6,Cord-grass swards (H1320)
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2a,Coastal saltmarsh,t2a7,Atlantic salt meadows (H1330)
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2a,Coastal saltmarsh,t2a8,Mediterranean saltmarsh scrub (H1420)
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2b,Blue mussel beds on sediment,NA,NA
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2c,Seagrass beds [Zostera noltii],NA,NA
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2d,Intertidal mudflats,t2d5,Intertidal mudflats and sandflats (H1140)
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2e,Sheltered muddy gravels,NA,NA
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2f,Peat and clay exposures with piddocks,NA,NA
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2g,Saline lagoons,t2g5,Saline lagoons (H1150)
+t,Marine inlets and transitional waters,t2,Littoral Sediment,t2h,Beach,,

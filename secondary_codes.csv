@@ -1,0 +1,269 @@
+code,name,grouping,essential,allowable_l2
+10,Scattered scrub,Essentials: grass/heath,True,g~;h~
+11,Hedgerow with trees,Essentials: grass/heath,True,g~;h~
+12,Scattered bracken,Essentials: grass/heath,True,g~;h~
+13,Scattered dwarf shrubs,Essentials: grass/heath,True,g~;h~
+14,Scattered rushes,Essentials: grass/heath,True,g~;h~
+15,Rushes dominant,Essentials: grass/heath,True,g~;h~
+16,Tall forbs,Essentials: grass/heath,True,g~;h~
+17,Juniper on heaths or calcareous grasslands (H5130),Essentials: grass/heath,True,g~;h~
+18,Species-rich grassland,Essentials: grass/heath,True,g~;h~
+19,Coastal and floodplain grazing marsh,Essentials: grass/heath,True,g~;h~
+25,Temperate rainforest,Essentials: woodland,True,w~
+26,Wood-pasture and parkland,Essentials: woodland,True,w~
+27,Traditional orchards,Essentials: woodland,True,w~
+28,Ancient woodland site,Essentials: woodland,True,w~
+29,Plantation,Essentials: woodland,True,w~
+30,Semi-natural woodland,Essentials: woodland,True,w~
+31,Secondary woodland,Essentials: woodland,True,w~
+32,Scattered trees,Essentials: woodland,True,w~
+33,Line of trees,Essentials: woodland,True,w~
+34,Ecologically valuable line of trees,Essentials: woodland,True,w~
+40,Ponds (priority habitat),Essentials: freshwater,True,r~
+41,Pond (non-priority),Essentials: freshwater,True,r~
+42,Pond,Essentials: freshwater,True,r~
+43,Lake,Essentials: freshwater,True,r~
+44,Lake (non-priority),Essentials: freshwater,True,r~
+45,Reservoir,Essentials: freshwater,True,r~
+46,Ornamental lakes or ponds,Essentials: freshwater,True,r~
+47,Freshwater – natural,Essentials: freshwater,True,r~
+48,Freshwater – heavily modified,Essentials: freshwater,True,r~
+49,Freshwater – artificial,Essentials: freshwater,True,r~
+50,Ditch,Essentials: freshwater,True,r~
+51,Chalk rivers,Essentials: freshwater,True,r~
+55,Floodplain wetland mosaic,Essentials: wetlands,True,f~
+56,Depressions on peat substrates (H7150),Essentials: wetlands,True,f~
+57,Peat,Essentials: wetlands,True,f~
+60,Long continuity habitat,Essentials: all habitats,True,all
+61,Re-created habitat,Essentials: all habitats,True,all
+62,Biodiversity offset,Essentials: all habitats,True,all
+63,Caves not open to the public (H8310),Essentials: all habitats,True,all
+70,Machair (H21A0),Essentials: coast,True,s~;t~
+71,Heathland on maritime cliffs and slopes,Essentials: coast,True,s~;t~
+72,Dunes with creeping willow (H2170),Essentials: coast,True,s~;t~
+73,Inland saltmarshes (H1340),Essentials: coast,True,s~;t~
+74,Estuaries (H1130),Essentials: coast,True,s~;t~
+75,Large shallow inlets and bays (H1160),Essentials: coast,True,s~;t~
+76,Reefs (H1170),Essentials: coast,True,s~;t~
+77,Sea caves (H8330),Essentials: coast,True,s~;t~
+80,Open mosaic habitats on previously developed land,Essentials: built environment,True,u~
+81,Ruderal or ephemeral,Essentials: built environment,True,u~
+82,Vacant or derelict land,Essentials: built environment,True,u~
+83,Solar panel array,Essentials: built environment,True,u~
+84,Wind farm,Essentials: built environment,True,u~
+85,Active sand pit or quarry or open cast mine,Essentials: built environment,True,u~
+86,Green roof,Essentials: built environment,True,u~
+87,Biodiverse green roof,Essentials: built environment,True,u~
+88,Intensive green roof,Essentials: built environment,True,u~
+89,Other green roof,Essentials: built environment,True,u~
+90,Cemeteries and churchyards,Essentials: built environment,True,u~
+100,Grazed,Additional: grass/heath,False,g~;h~
+101,Cattle grazed,Additional: grass/heath,False,g~;h~
+102,Sheep grazed,Additional: grass/heath,False,g~;h~
+103,Horse grazed,Additional: grass/heath,False,g~;h~
+104,Other grazed,Additional: grass/heath,False,g~;h~
+105,Burnt,Additional: grass/heath,False,g~;h~
+106,Mown,Additional: grass/heath,False,g~;h~
+107,Mown and collected,Additional: grass/heath,False,g~;h~
+108,Frequently mown,Additional: grass/heath,False,g~;h~
+109,Hay,Additional: grass/heath,False,g~;h~
+110,Silage and haylage,Additional: grass/heath,False,g~;h~
+111,Hedgebank,Additional: grass/heath,False,g~;h~
+112,Earthbank,Additional: grass/heath,False,g~;h~
+113,Stone-faced bank,Additional: grass/heath,False,g~;h~
+114,Dry stone wall,Additional: grass/heath,False,g~;h~
+115,Grazing and browsing exclosure,Additional: grass/heath,False,g~;h~
+116,Flailed hedgerow,Additional: grass/heath,False,g~;h~
+117,Laid hedgerow,Additional: grass/heath,False,g~;h~
+118,Species-rich hedgerow ground flora,Additional: grass/heath,False,g~;h~
+119,Green lane,Additional: grass/heath,False,g~;h~
+120,Grouse moor,Additional: grass/heath,False,g~;h~
+121,Calcareous-acidic mosaic,Additional: grass/heath,False,g~;h~
+122,Ridge and furrow,Additional: grass/heath,False,g~;h~
+123,Water meadow irrigation,Additional: grass/heath,False,g~;h~
+124,Anthills,Additional: grass/heath,False,g~;h~
+125,Flower forage abundant,Additional: grass/heath,False,g~;h~
+126,Seed forage abundant,Additional: grass/heath,False,g~;h~
+127,Sward type mosaic,Additional: grass/heath,False,g~;h~
+128,Tall or tussocky sward,Additional: grass/heath,False,g~;h~
+129,Wet moss lawns,Additional: grass/heath,False,g~;h~
+130,Waxcap grassland,Additional: grass/heath,False,g~;h~
+131,Arable reversion grassland,Additional: grass/heath,False,g~;h~
+200,Tree,Additional: woodland,False,w~
+201,Young trees – planted,Additional: woodland,False,w~
+202,Young trees – self-set,Additional: woodland,False,w~
+203,Mature tree,Additional: woodland,False,w~
+204,Veteran Tree,Additional: woodland,False,w~
+205,Ancient tree,Additional: woodland,False,w~
+206,Felled,Additional: woodland,False,w~
+207,Forest brash,Additional: woodland,False,w~
+208,Ground prepared for planting,Additional: woodland,False,w~
+209,Avenue,Additional: woodland,False,w~
+210,Coppice,Additional: woodland,False,w~
+211,Coppice with standards,Additional: woodland,False,w~
+212,High forest,Additional: woodland,False,w~
+213,Complex woody structure,Additional: woodland,False,w~
+214,Fallen dead wood abundant,Additional: woodland,False,w~
+215,Standing dead wood abundant,Additional: woodland,False,w~
+216,Large hollows or cavities,Additional: woodland,False,w~
+217,Woodland open space,Additional: woodland,False,w~
+300,Lowland rivers with shallow gradients and rich geology,Additional: freshwater,False,r~
+301,Meso-eutrophic rivers on sandstone and hard limestone,Additional: freshwater,False,r~
+302,Mesotrophic and oligo-mesotrophic rivers,Additional: freshwater,False,r~
+303,Acid and nutrient-poor rivers,Additional: freshwater,False,r~
+304,Unobstructed river system,Additional: freshwater,False,r~
+305,Spring,Additional: freshwater,False,r~
+306,Headwaters,Additional: freshwater,False,r~
+307,Waterfall,Additional: freshwater,False,r~
+308,Active shingle rivers,Additional: freshwater,False,r~
+309,Riffles,Additional: freshwater,False,r~
+310,Gravel beds,Additional: freshwater,False,r~
+311,Coarse woody debris in-channel,Additional: freshwater,False,r~
+312,Base-rich water,Additional: freshwater,False,r~
+313,Backwaters,Additional: freshwater,False,r~
+314,Mudbanks,Additional: freshwater,False,r~
+315,Exposed riverine sediments,Additional: freshwater,False,r~
+316,Shallow pools,Additional: freshwater,False,r~
+317,Tidal river,Additional: freshwater,False,r~
+318,Canalside,Additional: freshwater,False,r~
+319,Watercourse buffer strip,Additional: freshwater,False,r~
+320,Lakes and ponds buffer,Additional: freshwater,False,r~
+321,Timber sluice,Additional: freshwater,False,r~
+322,Re-meandering,Additional: freshwater,False,r~
+323,Riverbank re-profiling,Additional: freshwater,False,r~
+400,Topogenous,Additional: wetlands,False,f~
+401,Soligenous,Additional: wetlands,False,f~
+402,Rich fen,Additional: wetlands,False,f~
+403,Poor fen,Additional: wetlands,False,f~
+404,Fertile fen,Additional: wetlands,False,f~
+405,Infertile fen,Additional: wetlands,False,f~
+406,Swamp,Additional: wetlands,False,f~
+407,Tall fen,Additional: wetlands,False,f~
+408,Small-sedge fen,Additional: wetlands,False,f~
+409,Bryophyte-dominated,Additional: wetlands,False,f~
+410,Open water fen,Additional: wetlands,False,f~
+411,Transition fen,Additional: wetlands,False,f~
+412,Basin fen,Additional: wetlands,False,f~
+413,Floodplain fen,Additional: wetlands,False,f~
+414,Basin raised bog lagg fen,Additional: wetlands,False,f~
+415,Floodplain raised bog lagg fen,Additional: wetlands,False,f~
+416,Spring fen,Additional: wetlands,False,f~
+417,Surface flow spring fen,Additional: wetlands,False,f~
+418,Percolation spring fen,Additional: wetlands,False,f~
+419,Surface flush or rill or soakway,Additional: wetlands,False,f~
+420,Valley fen,Additional: wetlands,False,f~
+421,Ladder fen,Additional: wetlands,False,f~
+422,Cutover peat,Additional: wetlands,False,f~
+423,Grip,Additional: wetlands,False,f~
+424,Grip blocking,Additional: wetlands,False,f~
+425,Beaver-made wetland,Additional: wetlands,False,f~
+500,Dry,Additional: all habitats,False,all
+501,Mesic,Additional: all habitats,False,all
+502,Seasonally wet,Additional: all habitats,False,all
+503,Wet,Additional: all habitats,False,all
+504,Waterlogged,Additional: all habitats,False,all
+505,Inundation vegetation,Additional: all habitats,False,all
+506,Nutrient-poor substrate,Additional: all habitats,False,all
+507,Nutrient-enriched substrate,Additional: all habitats,False,all
+508,Base-rich substrate,Additional: all habitats,False,all
+509,Acidic substrate,Additional: all habitats,False,all
+510,Bare ground,Additional: all habitats,False,all
+511,Compacted substrate,Additional: all habitats,False,all
+512,Landslips,Additional: all habitats,False,all
+513,Rock outcrop,Additional: all habitats,False,all
+514,Snow patch,Additional: all habitats,False,all
+515,High humidity levels,Additional: all habitats,False,all
+516,Active Management,Additional: all habitats,False,all
+517,Recent Management,Additional: all habitats,False,all
+518,Neglected,Additional: all habitats,False,all
+519,Abandoned,Additional: all habitats,False,all
+520,Ancient management,Additional: all habitats,False,all
+521,Unmanaged,Additional: all habitats,False,all
+522,Native,Additional: all habitats,False,all
+523,Non-native,Additional: all habitats,False,all
+524,Invasive non-native species,Additional: all habitats,False,all
+525,Invasive species control,Additional: all habitats,False,all
+526,Accessible natural greenspace,Additional: all habitats,False,all
+527,Nature reserve,Additional: all habitats,False,all
+528,Walking or cycling route,Additional: all habitats,False,all
+529,Golf course,Additional: all habitats,False,all
+530,Ecotone,Additional: all habitats,False,all
+531,Cave open to the public,Additional: all habitats,False,all
+532,Scattered grass,Additional: all habitats,False,all
+600,Ploughed,Additional: farming,False,c~
+601,Minimum tillage,Additional: farming,False,c~
+602,No tillage,Additional: farming,False,c~
+603,In-field fallow plot,Additional: farming,False,c~
+604,Whole-field fallow,Additional: farming,False,c~
+605,Mid-field bund,Additional: farming,False,c~
+606,Mid-field swale,Additional: farming,False,c~
+607,Beetle bank,Additional: farming,False,c~
+608,Under-field drainage,Additional: farming,False,c~
+609,Cover crops,Additional: farming,False,c~
+610,Catch crops,Additional: farming,False,c~
+611,Soil erosion,Additional: farming,False,c~
+612,Fence,Additional: farming,False,c~
+613,Fish farm,Additional: farming,False,c~
+614,Permanent agricultural grassland,Additional: farming,False,c~
+615,City farm,Additional: farming,False,c~
+616,Allotments,Additional: farming,False,c~
+617,Agroforestry,Additional: farming,False,c~
+618,Paludiculture,Additional: farming,False,c~
+700,Port or marina,Additional: coast,False,s~;t~
+701,Sea wall,Additional: coast,False,s~;t~
+702,Saline influence,Additional: coast,False,s~;t~
+703,Shelter from wave action,Additional: coast,False,s~;t~
+800,Road,Additional: built environment,False,u~
+801,Road verge or island,Additional: built environment,False,u~
+802,Railway,Additional: built environment,False,u~
+803,Roadside,Additional: built environment,False,u~
+804,Car Park,Additional: built environment,False,u~
+805,Development site,Additional: built environment,False,u~
+806,Urban park,Additional: built environment,False,u~
+807,Pocket park,Additional: built environment,False,u~
+808,Neighbourhood park,Additional: built environment,False,u~
+809,Community park,Additional: built environment,False,u~
+810,District park,Additional: built environment,False,u~
+811,Regional park,Additional: built environment,False,u~
+812,Country park,Additional: built environment,False,u~
+813,Educational building,Additional: built environment,False,u~
+814,Educational premises open space,Additional: built environment,False,u~
+815,Commercial building,Additional: built environment,False,u~
+816,Commercial premises open space,Additional: built environment,False,u~
+817,Industrial building,Additional: built environment,False,u~
+818,Residential building,Additional: built environment,False,u~
+819,Residential premises open space,Additional: built environment,False,u~
+820,Natural sports pitches,Additional: built environment,False,u~
+821,Artificial sports pitches,Additional: built environment,False,u~
+822,Recreation ground,Additional: built environment,False,u~
+823,Children's Play Space,Additional: built environment,False,u~
+824,Adventure playground,Additional: built environment,False,u~
+825,Ruined building,Additional: built environment,False,u~
+826,Castle or historic building or monument,Additional: built environment,False,u~
+827,Garden,Additional: built environment,False,u~
+828,Vegetated garden,Additional: built environment,False,u~
+829,Unvegetated garden,Additional: built environment,False,u~
+830,Community garden,Additional: built environment,False,u~
+831,Landfill,Additional: built environment,False,u~
+832,Airport,Additional: built environment,False,u~
+833,Barn,Additional: built environment,False,u~
+834,Oil or gas drilling or extraction,Additional: built environment,False,u~
+835,Mine,Additional: built environment,False,u~
+836,Quarry – hard rock,Additional: built environment,False,u~
+837,Quarry – sand and gravel,Additional: built environment,False,u~
+838,Disused quarry,Additional: built environment,False,u~
+839,Track,Additional: built environment,False,u~
+840,Caravan park or permanent campsite,Additional: built environment,False,u~
+841,Green wall,Additional: built environment,False,u~
+842,Ground-based green wall,Additional: built environment,False,u~
+843,Façade-bound green wall,Additional: built environment,False,u~
+844,Balcony green,Additional: built environment,False,u~
+845,Ground level planters,Additional: built environment,False,u~
+846,Flower bed,Additional: built environment,False,u~
+847,Introduced shrub,Additional: built environment,False,u~
+848,Sustainable drainage system,Additional: built environment,False,u~
+849,Bioswale,Additional: built environment,False,u~
+850,Rain garden,Additional: built environment,False,u~
+851,Culvert,Additional: built environment,False,u~
+852,Water treatment filter bed,Additional: built environment,False,u~
+853,Mortared wall,Additional: built environment,False,u~
